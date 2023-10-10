@@ -1,0 +1,6 @@
+/Users/homeland/RiderProjects/AlgoritmsLesson4/AlgoritmsLesson4/bin/Debug/AlgoritmsLesson4.exe
+/Users/homeland/RiderProjects/AlgoritmsLesson4/AlgoritmsLesson4/bin/Debug/AlgoritmsLesson4.pdb
+/Users/homeland/RiderProjects/AlgoritmsLesson4/AlgoritmsLesson4/obj/Debug/AlgoritmsLesson4.csproj.AssemblyReference.cache
+/Users/homeland/RiderProjects/AlgoritmsLesson4/AlgoritmsLesson4/obj/Debug/AlgoritmsLesson4.csproj.CoreCompileInputs.cache
+/Users/homeland/RiderProjects/AlgoritmsLesson4/AlgoritmsLesson4/obj/Debug/AlgoritmsLesson4.exe
+/Users/homeland/RiderProjects/AlgoritmsLesson4/AlgoritmsLesson4/obj/Debug/AlgoritmsLesson4.pdb
